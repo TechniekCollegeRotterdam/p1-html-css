@@ -29,3 +29,29 @@ a{
     color: #8a2be2;
     text-decoration: none;
 }
+
+header {
+    width: 100vw;
+    height: 33vh;
+    background-image: url("/img/header\ afbeelding.jpg");
+    background-position: center; 
+    background-size: cover;
+}
+
+header p {
+    color: white
+}
+header h1 {
+    color: white
+}
+
+
+img {
+    width: 50vw;
+}
+
+article {
+    border: 2px  solid #0000ff;
+    border-radius: 20px;
+    border-left-width: 20px;
+}
